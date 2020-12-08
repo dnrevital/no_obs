@@ -1,7 +1,9 @@
 
 means to improve validation results
 
-		
+Dropout
+
+	
 
 
 
